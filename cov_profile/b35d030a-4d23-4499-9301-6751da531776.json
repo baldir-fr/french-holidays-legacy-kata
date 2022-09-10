@@ -1,0 +1,26 @@
+{
+  "scriptId": "35",
+  "url": "deno:ext/fetch/23_response.js",
+  "functions": [
+    {
+      "functionName": "nullBodyStatus",
+      "ranges": [{ "startOffset": 2458, "endOffset": 2576, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "redirectStatus",
+      "ranges": [{ "startOffset": 2644, "endOffset": 2786, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 6333, "endOffset": 6389, "count": 2 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "fromInnerResponse",
+      "ranges": [{ "startOffset": 13425, "endOffset": 13651, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

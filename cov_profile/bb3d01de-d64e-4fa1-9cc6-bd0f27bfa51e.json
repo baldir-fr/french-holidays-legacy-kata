@@ -1,0 +1,21 @@
+{
+  "scriptId": "80",
+  "url": "file:///Users/marco/sources/baldir/legacy-workshops/ts-wrap-legacy-api-with-gateway/test/some_unit_test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 453, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 171, "endOffset": 344, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 375, "endOffset": 450, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

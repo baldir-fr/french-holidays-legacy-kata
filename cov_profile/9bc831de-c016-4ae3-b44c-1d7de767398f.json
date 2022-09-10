@@ -1,0 +1,19 @@
+{
+  "scriptId": "80",
+  "url": "file:///Users/marco/sources/baldir/legacy-workshops/ts-wrap-legacy-api-with-gateway/integration/api_integration_it.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 792, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        { "startOffset": 213, "endOffset": 789, "count": 1 },
+        { "startOffset": 303, "endOffset": 788, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    }
+  ]
+}

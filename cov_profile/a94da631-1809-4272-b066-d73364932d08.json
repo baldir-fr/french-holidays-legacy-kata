@@ -1,0 +1,21 @@
+{
+  "scriptId": "30",
+  "url": "deno:ext/fetch/20_headers.js",
+  "functions": [
+    {
+      "functionName": "has",
+      "ranges": [
+        { "startOffset": 9341, "endOffset": 9981, "count": 2 },
+        { "startOffset": 9654, "endOffset": 9721, "count": 0 },
+        { "startOffset": 9854, "endOffset": 9955, "count": 1 },
+        { "startOffset": 9913, "endOffset": 9947, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "headersFromHeaderList",
+      "ranges": [{ "startOffset": 12624, "endOffset": 12806, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}

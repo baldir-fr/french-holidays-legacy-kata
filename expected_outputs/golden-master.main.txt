@@ -1,0 +1,42 @@
+Number of holidays for Alsace-Moselle zone between 2000 and 2025 :  337
+Number of holidays for Alsace-Moselle zone in 2022 :  13
+Number of holidays for Metropolitan France between 2000 and 2025 :  285
+Number of holidays for Metropolitan France in 2022 :  11
+Number of holidays for Saint-Pierre et Miquelon between 2000 and 2025 :  285
+The best zones to live to live in as a lazy French person in 2013 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2014 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2015 [
+  "alsace-moselle",
+  "guadeloupe",
+  "guyane",
+  "martinique",
+  "mayotte",
+  "saint-barthelemy",
+  "saint-martin"
+]
+The best zones to live to live in as a lazy French person in 2016 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2017 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2018 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2019 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2020 [
+  "alsace-moselle",
+  "guadeloupe",
+  "guyane",
+  "martinique",
+  "mayotte",
+  "saint-barthelemy",
+  "saint-martin"
+]
+The best zones to live to live in as a lazy French person in 2021 [
+  "alsace-moselle",
+  "guadeloupe",
+  "guyane",
+  "la-reunion",
+  "mayotte",
+  "saint-martin"
+]
+The best zones to live to live in as a lazy French person in 2022 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2023 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2024 [ "alsace-moselle" ]
+The best zones to live to live in as a lazy French person in 2025 [ "alsace-moselle" ]
+🎉 The ultimate zone to live in as a lazy French person is:  alsace-moselle

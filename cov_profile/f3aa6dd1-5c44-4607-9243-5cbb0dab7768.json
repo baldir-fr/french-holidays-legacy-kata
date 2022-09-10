@@ -1,0 +1,46 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/marco/sources/baldir/legacy-workshops/ts-wrap-legacy-api-with-gateway/src/shared-kernel.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 1453, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "numberOfKeysForObject",
+      "ranges": [{ "startOffset": 7, "endOffset": 78, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "frenchDayName",
+      "ranges": [{ "startOffset": 110, "endOffset": 220, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "frenchDayNameFromDayNumber",
+      "ranges": [{ "startOffset": 221, "endOffset": 924, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "dateToShortISO8601",
+      "ranges": [{ "startOffset": 932, "endOffset": 1014, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isWeekDay",
+      "ranges": [{ "startOffset": 1137, "endOffset": 1251, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "isWeekDayHumanReadable",
+      "ranges": [{ "startOffset": 1259, "endOffset": 1366, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "today",
+      "ranges": [{ "startOffset": 1374, "endOffset": 1452, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}

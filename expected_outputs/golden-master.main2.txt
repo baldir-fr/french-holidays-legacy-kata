@@ -1,0 +1,10 @@
+Today it is Samedi (2020-09-12), it is a "non ouvré" day.
+And the best zones to live in as a lazy French person this year are :  [
+  "alsace-moselle",
+  "guadeloupe",
+  "guyane",
+  "martinique",
+  "mayotte",
+  "saint-barthelemy",
+  "saint-martin"
+]

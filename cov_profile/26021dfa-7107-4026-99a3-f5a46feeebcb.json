@@ -1,0 +1,54 @@
+{
+  "scriptId": "82",
+  "url": "file:///Users/marco/sources/baldir/legacy-workshops/ts-wrap-legacy-api-with-gateway/bad_old_legacy_sdk_you_dont_own_DONT_TOUCH/jours-feries-api.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 2519, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getHolidaysForAlsaceMoselleBetween2000And2025",
+      "ranges": [{ "startOffset": 397, "endOffset": 587, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getHolidaysForAlsaceMoselleIn",
+      "ranges": [{ "startOffset": 592, "endOffset": 783, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getHolidaysForMetropolitanFranceBetween2000And2025",
+      "ranges": [{ "startOffset": 788, "endOffset": 978, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getHolidaysForMetropolitanFranceIn",
+      "ranges": [
+        { "startOffset": 983, "endOffset": 1174, "count": 1 },
+        { "startOffset": 1140, "endOffset": 1173, "count": 0 }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "getAllZonesAndNumberOfHolidaysOrderedDesc",
+      "ranges": [{ "startOffset": 1179, "endOffset": 1444, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "detailsOfHolidaysPerZone",
+      "ranges": [{ "startOffset": 1449, "endOffset": 1885, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getNumberOfHolidaysPerZone",
+      "ranges": [{ "startOffset": 1890, "endOffset": 2038, "count": 0 }],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "getZones",
+      "ranges": [{ "startOffset": 2043, "endOffset": 2469, "count": 0 }],
+      "isBlockCoverage": false
+    }
+  ]
+}
