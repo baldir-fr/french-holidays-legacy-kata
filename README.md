@@ -22,9 +22,9 @@ Then, you will be able to develop without internet.
 Or you can also simulate internet restriction by not allowing net access in deno command.
 
 ```shell
-# Lancement du programme pour télécharger les dépendances (il peut accéder à internet)
+# First deno run to download dependencies (allow internet for the program to run properly)
 deno run --allow-net main.ts
-# Lancement des tests d'intégration (ils peuvent accéder à internet)
+# First run API integration tests
 deno test --allow-net integration/*.ts
 ```
 
