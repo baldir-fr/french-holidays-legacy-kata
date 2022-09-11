@@ -75,7 +75,7 @@ deno test --allow-net integration/*.ts
 If you run the `main.ts` program, you should expect similar outputs than [expected_outputs/golden-master.main.txt](expected_outputs/golden-master.main.txt).
 
 
-## Partie 2
+## Part 2
 
 In this 2 program, the french developer wants to know what are the best zones to live in this curent year.
 It also says if the current day is a week dans or a weekend day.
