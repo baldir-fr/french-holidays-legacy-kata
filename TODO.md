@@ -1,0 +1,1 @@
+- [ ] Create a test suite in a branch (Approval testing with texttest?) to allow the developper to start directly with refactoring
